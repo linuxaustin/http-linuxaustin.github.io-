@@ -1,4 +1,5 @@
-# Welcome to the [Austin Linux meetup](https://www.meetup.com/linuxaustin/) page
+# Welcome to the Austin Linux meetup page
+Sign up at [meetup.com/linuxaustin](https://www.meetup.com/linuxaustin/)
 
 ## Your Organizers:  
 Darren Carpenter  
