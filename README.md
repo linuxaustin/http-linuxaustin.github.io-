@@ -24,4 +24,4 @@ Chad Crowell
 
 ## Meetups:
 
-[Test Link](https://dcarpent74.github.io/reveal.js)
+Thursday, October 11, 2018 -- It's Never the Firewall: Diagnosing Linux Firewall Issues -- slides(https://dcarpent74.github.io/reveal.js) meetup.com(https://www.meetup.com/linuxaustin/events/zqmmhqyxnbpb/)
