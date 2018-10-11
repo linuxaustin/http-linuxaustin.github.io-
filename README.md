@@ -20,5 +20,5 @@ Chad Crowell
 ## Meetups:
 
 [Thursday, October 11, 2018](https://www.meetup.com/linuxaustin/events/zqmmhqyxnbpb/) -- It's Never the Firewall: Diagnosing Linux Firewall Issues  
-slides: [intro](https://dcarpent74.github.io/intro-slides/11-10-18/)
+slides: [intro](https://linuxaustin.github.io/intro-slides/11-10-18/)
 
