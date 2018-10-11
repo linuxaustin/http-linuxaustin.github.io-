@@ -18,7 +18,7 @@ Chad Crowell
 
 ## Sponsors:
 
-![Linux Academy](LinuxAcademy-logo.png)
+Format: ![Linux Academy](LinuxAcademy-logo.png)(https://linuxacademy.com)
 
 ---
 
