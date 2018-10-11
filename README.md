@@ -1,18 +1,22 @@
-# Welcome to the Austin Linux meetup page
+## Welcome to the Austin Linux meetup page
 
-Your Organizers:<p>
-Darren Carpenter<p>
+#Your Organizers:
+
+Darren Carpenter
+
 Sameer Khan
 
 ---
 
-Organization help:<p>
-Daria Ilic<p>
+#Organization help:
+
+Daria Ilic
+
 Chad Crowell
 
 ---
 
-Sponsors:
+#Sponsors:
 
 [Linux Academy](https://linuxacademy.com)
 
