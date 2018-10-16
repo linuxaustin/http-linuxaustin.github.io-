@@ -16,7 +16,7 @@ Chad Crowell
 ## Sponsors:
 
 <a href="https://linuxacademy.com" class="logo"><img src="https://linuxacademy.com/templates/default/assets/img/LinuxAcademy-logo-dk.svg" alt="Linux Academy" height="35px" width="214px"></a>
-<a href="https://www.oreilly.com/pub/cpc/169501"><img src="https://www.oreilly.com/partner_file/ORM_logo_box75_hex.jpg" /></a>
+<a href="https://www.oreilly.com/pub/cpc/169501"><img src="https://www.oreilly.com/partner_file/ORM_logo_box75_hex.jpg" alt="O'reilly"/></a>
 
 ---
 
