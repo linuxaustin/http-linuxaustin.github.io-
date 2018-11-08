@@ -25,5 +25,5 @@ Chad Crowell
 [Thursday, October 11, 2018](https://www.meetup.com/linuxaustin/events/zqmmhqyxnbpb/) -- It's Never the Firewall: Diagnosing Linux Firewall Issues  
 slides: [intro](https://linuxaustin.github.io/intro-slides/11-10-18)
 
-[Thursday, November 08, 2018](https://www.meetup.com/linuxaustin/events/lbqzhqyxpblb/) -- Pairing With the Future: Maximizing the collaborative potential of your software
+[Thursday, November 08, 2018](https://www.meetup.com/linuxaustin/events/lbqzhqyxpblb/) -- Pairing With the Future: Maximizing the collaborative potential of your software  
 slides: [intro](https://linuxaustin.github.io/intro-slides/2018-11-08)
