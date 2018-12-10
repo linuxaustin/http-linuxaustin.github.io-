@@ -27,7 +27,7 @@ Chad Crowell
 slides: [intro](https://linuxaustin.github.io/intro-slides/2018-12-13)
 
 [Thursday, November 08, 2018](https://www.meetup.com/linuxaustin/events/lbqzhqyxpblb/) -- Pairing With the Future: Maximizing the collaborative potential of your software  
-slides: [intro](https://linuxaustin.github.io/intro-slides/2018-11-08) [Bradley Allen: markit](https://github.com/linuxaustin/OtherSlides/blob/master/markit-presentation-18-11-09-01.odp) -- Video: [youtube](https://youtu.be/Ti0kMejBgkk)
+slides: [intro](https://linuxaustin.github.io/intro-slides/2018-11-08) | [Bradley Allen: markit](https://github.com/linuxaustin/OtherSlides/blob/master/markit-presentation-18-11-09-01.odp) -- Video: [youtube](https://youtu.be/Ti0kMejBgkk)
 
 [Thursday, October 11, 2018](https://www.meetup.com/linuxaustin/events/zqmmhqyxnbpb/) -- It's Never the Firewall: Diagnosing Linux Firewall Issues  
 slides: [intro](https://linuxaustin.github.io/intro-slides/11-10-18)
