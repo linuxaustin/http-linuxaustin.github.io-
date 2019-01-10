@@ -23,6 +23,9 @@ Chad Crowell
 
 ## Meetups:
 
+[Thursday, January 10, 2019](https://www.meetup.com/linuxaustin/events/jbxcnqyzcbnb/) -- Compiling Kernel
+slides: [intro](https://linuxaustin.github.io/intro-slides/2019-01-10)
+
 [Thursday, December 13, 2018](https://www.meetup.com/linuxaustin/events/lbqzhqyxqbrb/) -- Lightning Talks and tmux!  
 slides: [intro](https://linuxaustin.github.io/intro-slides/2018-12-13) | [Paul Gier: tmux!](https://github.com/linuxaustin/tmux-notes/blob/master/tmux-presentation.org)
 
