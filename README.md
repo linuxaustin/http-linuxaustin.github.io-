@@ -23,7 +23,7 @@ Chad Crowell
 
 ## Meetups:
 
-[Thursday, December 13, 2018](https://www.meetup.com/linuxaustin/events/lbqzhqyxqbrb/) -- Lightning Talks and tmux!.
+[Thursday, December 13, 2018](https://www.meetup.com/linuxaustin/events/lbqzhqyxqbrb/) -- Lightning Talks and tmux
 slides: [intro](https://linuxaustin.github.io/intro-slides/2018-12-13)
 
 [Thursday, November 08, 2018](https://www.meetup.com/linuxaustin/events/lbqzhqyxpblb/) -- Pairing With the Future: Maximizing the collaborative potential of your software  
