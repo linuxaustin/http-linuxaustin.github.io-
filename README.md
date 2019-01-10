@@ -24,7 +24,7 @@ Chad Crowell
 ## Meetups:
 
 [Thursday, December 13, 2018](https://www.meetup.com/linuxaustin/events/lbqzhqyxqbrb/) -- Lightning Talks and tmux!  
-slides: [intro](https://linuxaustin.github.io/intro-slides/2018-12-13)
+slides: [intro](https://linuxaustin.github.io/intro-slides/2018-12-13) | [Paul Gier: tmux!](https://github.com/linuxaustin/tmux-notes/blob/master/tmux-presentation.org)
 
 [Thursday, November 08, 2018](https://www.meetup.com/linuxaustin/events/lbqzhqyxpblb/) -- Pairing With the Future: Maximizing the collaborative potential of your software  
 slides: [intro](https://linuxaustin.github.io/intro-slides/2018-11-08) | [Bradley Allen: markit](https://github.com/linuxaustin/OtherSlides/blob/master/markit-presentation-18-11-09-01.odp) -- Video: [youtube](https://youtu.be/Ti0kMejBgkk)
