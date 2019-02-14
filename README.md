@@ -24,10 +24,10 @@ Chad Crowell
 ## Meetups:
 
 [Thursday, February 14, 2019](https://www.meetup.com/linuxaustin/events/jbxcnqyzdbsb/) -- Meltdown and Spectre  
-slides: [intro](https://linuxaustin.github.io/intro-slides/2019-02-14)
+slides: [intro](https://linuxaustin.github.io/intro-slides/2019-02-14) -- articles: [meltdownattack](https://meltdownattack.com/) | [arstechnica](https://arstechnica.com/gadgets/2018/01/meltdown-and-spectre-every-modern-processor-has-unfixable-security-flaws/) | [cloudflare](https://blog.cloudflare.com/meltdown-spectre-non-technical/)
 
 [Thursday, January 10, 2019](https://www.meetup.com/linuxaustin/events/jbxcnqyzcbnb/) -- Compiling Kernel  
-slides: [intro](https://linuxaustin.github.io/intro-slides/2019-01-10) | [SSH Examples, Tips & Tunnels](https://hackertarget.com/ssh-examples-tunnels/)
+slides: [intro](https://linuxaustin.github.io/intro-slides/2019-01-10) -- article: [SSH Examples, Tips & Tunnels](https://hackertarget.com/ssh-examples-tunnels/)
 
 [Thursday, December 13, 2018](https://www.meetup.com/linuxaustin/events/lbqzhqyxqbrb/) -- Lightning Talks and tmux!  
 slides: [intro](https://linuxaustin.github.io/intro-slides/2018-12-13) | [Paul Gier: tmux!](https://github.com/linuxaustin/tmux-notes/blob/master/tmux-presentation.org)
