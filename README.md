@@ -7,12 +7,6 @@ Sameer Khan
 
 ---
 
-## Organization help:  
-Daria Ilic  
-Chad Crowell
-
----
-
 ## Sponsors:
 
 <a href="https://linuxacademy.com" class="logo"><img src="https://linuxacademy.com/templates/default/assets/img/LinuxAcademy-logo-dk.svg" alt="Linux Academy" height="35px" width="214px"></a>
