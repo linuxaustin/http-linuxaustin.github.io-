@@ -17,6 +17,9 @@ Sameer Khan
 
 ## Meetups:
 
+[Thursday, March 14, 2019](https://www.meetup.com/linuxaustin/events/jbxcnqyzfbsb/) -- Set up your own CI/CD docker pipeline in AWS using gitlab  
+slides: [info](https://linuxaustin.github.io/intro-slides/2019-03-14) | [Paul Dejean:CI/CD](http://dockerslides.com) -- resources: [gitlab:dockercitalk](https://gitlab.com/dockercitalk)
+
 [Thursday, February 14, 2019](https://www.meetup.com/linuxaustin/events/jbxcnqyzdbsb/) -- Meltdown and Spectre  
 slides: [intro](https://linuxaustin.github.io/intro-slides/2019-02-14) -- articles: [meltdownattack](https://meltdownattack.com/) | [arstechnica](https://arstechnica.com/gadgets/2018/01/meltdown-and-spectre-every-modern-processor-has-unfixable-security-flaws/) | [cloudflare](https://blog.cloudflare.com/meltdown-spectre-non-technical/)
 
@@ -30,4 +33,4 @@ slides: [intro](https://linuxaustin.github.io/intro-slides/2018-12-13) | [Paul G
 slides: [intro](https://linuxaustin.github.io/intro-slides/2018-11-08) | [Bradley Allen: markit](https://github.com/linuxaustin/OtherSlides/blob/master/markit-presentation-18-11-09-01.odp) -- Video: [youtube](https://youtu.be/Ti0kMejBgkk)
 
 [Thursday, October 11, 2018](https://www.meetup.com/linuxaustin/events/zqmmhqyxnbpb/) -- It's Never the Firewall: Diagnosing Linux Firewall Issues  
-slides: [intro](https://linuxaustin.github.io/intro-slides/11-10-18)
+slides: [intro](https://linuxaustin.github.io/intro-slides/11-10-18) | [Sam Stelfox: It's Never the Firewall](https://stelfox.net/files/it_is_never_the_firewall.pdf) -- Blog: [stelfox.net](https://stelfox.net/blog/2018/10/its-never-the-firewall/)
