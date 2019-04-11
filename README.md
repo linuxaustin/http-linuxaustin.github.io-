@@ -17,6 +17,9 @@ Sameer Khan
 
 ## Meetups:
 
+[Thursday, April 11, 2019](https://www.meetup.com/linuxaustin/events/jbxcnqyzgbpb/) -- KVM as Hypervisor and GNU Parallel
+slides: [info](https://linuxaustin.github.io/intro-slides/2019-04-11)
+
 [Thursday, March 14, 2019](https://www.meetup.com/linuxaustin/events/jbxcnqyzfbsb/) -- Set up your own CI/CD docker pipeline in AWS using gitlab  
 slides: [info](https://linuxaustin.github.io/intro-slides/2019-03-14) | [Paul Dejean:CI/CD](http://dockerslides.com) -- resources: [gitlab:dockercitalk](https://gitlab.com/dockercitalk)
 
