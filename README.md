@@ -9,13 +9,20 @@ Sameer Khan
 
 ## Sponsors:
 
-<a href="https://linuxacademy.com" class="logo"><img src="https://linuxacademy.com/templates/default/assets/img/LinuxAcademy-logo-dk.svg" alt="Linux Academy" height="35px" width="214px"></a>
 <a href="https://www.oreilly.com/pub/cpc/169501"><img src="https://www.oreilly.com/partner_file/ORM_logo_box75_hex.jpg" alt="O'Reilly"/></a>
+<a href="https://www.oreilly.com/pub/cpc/169501"><img src="https://www.oreilly.com/partner_file/ORM_logo_box75_hex.jpg" alt="O'Reilly"/></a>
+<a href="https://linuxacademy.com" class="logo"><img src="https://linuxacademy.com/templates/default/assets/img/LinuxAcademy-logo-dk.svg" alt="Linux Academy" height="35px" width="214px"></a>
 <a href="https://www.redhat.com"><img src="https://www.redhat.com/profiles/rh/themes/redhatdotcom/img/logo-reverse.svg" alt="Red Hat" height="54px" width="168px"></a><a href="https://www.toptal.com"><img src="https://uploads.toptal.io/press-center/logos/blue/regular-logo/full_logo.svg" alt="Toptal" height="80.px"></a>
 
 ---
 
 ## Meetups:
+
+[Thursday, June 13, 2019](https://www.meetup.com/linuxaustin/events/jbxcnqyzjbrb/) -- Creating a Raspberry Pi Kubernetes Cluster
+slides: [info](https://linuxaustin.github.io/intro-slides/2019-06-13)
+
+[Thursday, May 9, 2019](https://www.meetup.com/linuxaustin/events/jbxcnqyzhbmb/) -- Become a CLI Power User!
+slides: [info](https://linuxaustin.github.io/intro-slides/2019-05-09)
 
 [Thursday, April 11, 2019](https://www.meetup.com/linuxaustin/events/jbxcnqyzgbpb/) -- KVM as Hypervisor and GNU Parallel
 slides: [info](https://linuxaustin.github.io/intro-slides/2019-04-11)
