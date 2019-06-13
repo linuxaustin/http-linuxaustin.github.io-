@@ -18,13 +18,13 @@ Sameer Khan
 
 ## Meetups:
 
-[Thursday, June 13, 2019](https://www.meetup.com/linuxaustin/events/jbxcnqyzjbrb/) -- Creating a Raspberry Pi Kubernetes Cluster
+[Thursday, June 13, 2019](https://www.meetup.com/linuxaustin/events/jbxcnqyzjbrb/) -- Creating a Raspberry Pi Kubernetes Cluster  
 slides: [info](https://linuxaustin.github.io/intro-slides/2019-06-13)
 
-[Thursday, May 9, 2019](https://www.meetup.com/linuxaustin/events/jbxcnqyzhbmb/) -- Become a CLI Power User!
+[Thursday, May 9, 2019](https://www.meetup.com/linuxaustin/events/jbxcnqyzhbmb/) -- Become a CLI Power User!  
 slides: [info](https://linuxaustin.github.io/intro-slides/2019-05-09)
 
-[Thursday, April 11, 2019](https://www.meetup.com/linuxaustin/events/jbxcnqyzgbpb/) -- KVM as Hypervisor and GNU Parallel
+[Thursday, April 11, 2019](https://www.meetup.com/linuxaustin/events/jbxcnqyzgbpb/) -- KVM as Hypervisor and GNU Parallel  
 slides: [info](https://linuxaustin.github.io/intro-slides/2019-04-11)
 
 [Thursday, March 14, 2019](https://www.meetup.com/linuxaustin/events/jbxcnqyzfbsb/) -- Set up your own CI/CD docker pipeline in AWS using gitlab  
