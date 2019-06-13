@@ -9,7 +9,7 @@ Sameer Khan
 
 ## Sponsors:
 
-<a href="https://www.oracle.com/linux"><img src="https://linuxaustin.github.io/Oracle-Linux.png" alt="Oracle Linux" height="54px"/></a>
+<a href="https://www.oracle.com/linux"><img src="https://linuxaustin.github.io/Oracle-Linux.png" alt="Oracle Linux" height="70px"/></a>
 <a href="https://www.oreilly.com/pub/cpc/169501"><img src="https://www.oreilly.com/partner_file/ORM_logo_box75_hex.jpg" alt="O'Reilly"/></a>
 <a href="https://linuxacademy.com" class="logo"><img src="https://linuxacademy.com/templates/default/assets/img/LinuxAcademy-logo-dk.svg" alt="Linux Academy" height="35px" width="214px"></a>
 <a href="https://www.redhat.com"><img src="https://www.redhat.com/profiles/rh/themes/redhatdotcom/img/logo-reverse.svg" alt="Red Hat" height="54px" width="168px"></a><a href="https://www.toptal.com"><img src="https://uploads.toptal.io/press-center/logos/blue/regular-logo/full_logo.svg" alt="Toptal" height="80.px"></a>
