@@ -16,6 +16,15 @@ Sameer Khan
 
 ---
 
+## Texas Linuxfest 2019:
+
+[Keynote: Linux State of the Union](http://www.camerontech.com/txlf_2019/keynote_state_of_union.pdf)
+[Becoming Dangerous with Kubernetes](https://speakerdeck.com/lastcoolnameleft/kubernetes-fundamentals)
+[An Intro to MySQL](https://www.slideshare.net/davidmstokes/mysql-baics-texas-linxufest-beginners-tutorial-may-31st-2019)
+[Continuous Kernel Integration](https://twitter.com/majorhayden/status/1134849540769681412)
+
+---
+
 ## Meetups:
 
 [Thursday, June 13, 2019](https://www.meetup.com/linuxaustin/events/jbxcnqyzjbrb/) -- Creating a Raspberry Pi Kubernetes Cluster  
