@@ -24,8 +24,10 @@ Sameer Khan
 [Keynote: Linux State of the Union](http://www.camerontech.com/txlf_2019/keynote_state_of_union.pdf)  
 [Becoming Dangerous with Kubernetes](https://speakerdeck.com/lastcoolnameleft/kubernetes-fundamentals)  
 [An Intro to MySQL](https://www.slideshare.net/davidmstokes/mysql-baics-texas-linxufest-beginners-tutorial-may-31st-2019)  
-[Continuous Kernel Integration](https://twitter.com/majorhayden/status/1134849540769681412)  
+[Continuous Kernel Integration](https://docs.google.com/presentation/d/1T0JaRA0wtDU0aTWTyASwwy_ugtzjUcw_ZDmC5KFzw-A)
+[I was too burned out to name this talk](https://docs.google.com/presentation/d/1uYY8Ezw8rMhMjRA_d-H8rnv4AWqROyBx86HTcGFEtdQ)  
 [The Virtues of an Open Home Automation System](https://docs.google.com/presentation/d/17qT5KTAaCzAe8WTZIEXfy3X8SQ6SBMPsqklyQMUEjvA/edit#slide=id.p)
+[Livin' the Vida Loca on the Command Line](https://github.com/linuxaustin/OtherSlides/blob/master/CLI_TXLF_190601.pdf)
 
 ---
 
@@ -35,7 +37,7 @@ Sameer Khan
 slides: [intro](https://linuxaustin.github.io/intro-slides/2019-06-13)
 
 [Thursday, May 9, 2019](https://www.meetup.com/linuxaustin/events/jbxcnqyzhbmb/) -- Become a CLI Power User!  
-slides: [info](https://linuxaustin.github.io/intro-slides/2019-05-09)
+slides: [info](https://linuxaustin.github.io/intro-slides/2019-05-09) | [Sameer Khan: CLI](https://github.com/linuxaustin/OtherSlides/blob/master/CLI_TXLF_190601.pdf)
 
 [Thursday, April 11, 2019](https://www.meetup.com/linuxaustin/events/jbxcnqyzgbpb/) -- KVM as Hypervisor and GNU Parallel  
 slides: [intro](https://linuxaustin.github.io/intro-slides/2019-04-11)
