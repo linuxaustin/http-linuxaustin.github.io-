@@ -33,6 +33,9 @@ Sameer Khan
 
 ## Meetups:
 
+[Thursday, July 11, 2019](https://www.meetup.com/linuxaustin/events/jbxcnqyzkbpb/) -- Texas Linuxfest 2019 Recap
+slides: [intro](https://linuxaustin.github.io/intro-slides/2019-07-11)
+
 [Thursday, June 13, 2019](https://www.meetup.com/linuxaustin/events/jbxcnqyzjbrb/) -- Creating a Raspberry Pi Kubernetes Cluster  
 slides: [intro](https://linuxaustin.github.io/intro-slides/2019-06-13)
 
