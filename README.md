@@ -18,18 +18,13 @@ Sameer Khan
 
 ## Texas Linuxfest 2019:
 
-[Schedule](https://2019.texaslinuxfest.org/schedule.html)
-
+[Schedule](https://2019.texaslinuxfest.org/schedule.html)  
 [Presentations](https://2019.texaslinuxfest.org/presentations.html)
 
-[Keynote: Linux State of the Union](http://www.camerontech.com/txlf_2019/keynote_state_of_union.pdf)
-
-[Becoming Dangerous with Kubernetes](https://speakerdeck.com/lastcoolnameleft/kubernetes-fundamentals)
-
-[An Intro to MySQL](https://www.slideshare.net/davidmstokes/mysql-baics-texas-linxufest-beginners-tutorial-may-31st-2019)
-
-[Continuous Kernel Integration](https://twitter.com/majorhayden/status/1134849540769681412)
-
+[Keynote: Linux State of the Union](http://www.camerontech.com/txlf_2019/keynote_state_of_union.pdf)  
+[Becoming Dangerous with Kubernetes](https://speakerdeck.com/lastcoolnameleft/kubernetes-fundamentals)  
+[An Intro to MySQL](https://www.slideshare.net/davidmstokes/mysql-baics-texas-linxufest-beginners-tutorial-may-31st-2019)  
+[Continuous Kernel Integration](https://twitter.com/majorhayden/status/1134849540769681412)  
 [The Virtues of an Open Home Automation System](https://docs.google.com/presentation/d/17qT5KTAaCzAe8WTZIEXfy3X8SQ6SBMPsqklyQMUEjvA/edit#slide=id.p)
 
 ---
