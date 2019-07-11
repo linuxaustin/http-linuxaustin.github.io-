@@ -26,7 +26,7 @@ Sameer Khan
 [An Intro to MySQL](https://www.slideshare.net/davidmstokes/mysql-baics-texas-linxufest-beginners-tutorial-may-31st-2019)  
 [Continuous Kernel Integration](https://docs.google.com/presentation/d/1T0JaRA0wtDU0aTWTyASwwy_ugtzjUcw_ZDmC5KFzw-A)  
 [I was too burned out to name this talk](https://docs.google.com/presentation/d/1uYY8Ezw8rMhMjRA_d-H8rnv4AWqROyBx86HTcGFEtdQ)  
-[The Virtues of an Open Home Automation System](https://docs.google.com/presentation/d/17qT5KTAaCzAe8WTZIEXfy3X8SQ6SBMPsqklyQMUEjvA/edit#slide=id.p)
+[The Virtues of an Open Home Automation System](https://docs.google.com/presentation/d/17qT5KTAaCzAe8WTZIEXfy3X8SQ6SBMPsqklyQMUEjvA/edit#slide=id.p)  
 [Livin' the Vida Loca on the Command Line](https://github.com/linuxaustin/OtherSlides/blob/master/CLI_TXLF_190601.pdf)
 
 ---
