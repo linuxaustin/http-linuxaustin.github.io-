@@ -46,7 +46,7 @@ Sameer Khan
 ## Meetups:
 
 [Thursday, August 8, 2019](https://www.meetup.com/linuxaustin/events/jbxcnqyzlblb/) -- DDOS!  
-slides: [Chris Holland](http://hivewind.com/presentation/) -- Video: [youtube](https://youtu.be/pwb4IUyKCv4)
+slides: [Chris Holland: DDOS!](http://hivewind.com/presentation/) -- Video: [youtube](https://youtu.be/pwb4IUyKCv4)
 
 [Thursday, July 11, 2019](https://www.meetup.com/linuxaustin/events/jbxcnqyzkbpb/) -- Texas Linuxfest 2019 Recap  
 slides: (See the 2019 conference links above)
