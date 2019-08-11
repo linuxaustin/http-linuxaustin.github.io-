@@ -45,6 +45,8 @@ Sameer Khan
 
 ## Meetups:
 
+[Thursday, August 8, 2019](http://hivewind.com/presentation/) -- DDOS!
+
 [Thursday, July 11, 2019](https://www.meetup.com/linuxaustin/events/jbxcnqyzkbpb/) -- Texas Linuxfest 2019 Recap  
 slides: (See the 2019 conference links above)
 
