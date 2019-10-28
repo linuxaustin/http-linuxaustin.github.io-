@@ -48,7 +48,7 @@ Sameer Khan
 ## Meetups:
 
 [Thursday, September 12, 2019](https://www.meetup.com/linuxaustin/events/jbxcnqyzmbqb/) -- Site Reliability Engineering With Prometheus For Fun and Profit  
-slides: [info](https://landing.google.com/sre/books/)
+slides: [info](https://landing.google.com/sre/books/) | [Eddy Reyes: SRE](https://github.com/linuxaustin/OtherSlides/blob/master/Site_Reliability_Engineering_1909.pdf)
 
 [Thursday, August 8, 2019](https://www.meetup.com/linuxaustin/events/jbxcnqyzlblb/) -- DDOS!  
 slides: [Chris Holland: DDOS!](http://hivewind.com/presentation/) -- Video: [youtube](https://youtu.be/pwb4IUyKCv4)
