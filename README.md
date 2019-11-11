@@ -47,6 +47,9 @@ Sameer Khan
 
 ## Meetups:
 
+[Thursday, October 10, 2019](https://www.meetup.com/linuxaustin/events/jbxcnqyznbnb/) -- Introduction to Flutter  
+slides and code: [Guy Starner: Flutter](https://github.com/ghstarner/json_barchart)
+
 [Thursday, September 12, 2019](https://www.meetup.com/linuxaustin/events/jbxcnqyzmbqb/) -- Site Reliability Engineering With Prometheus For Fun and Profit  
 slides: [info](https://landing.google.com/sre/books/) | [Eddy Reyes: SRE](https://github.com/linuxaustin/OtherSlides/blob/master/Site_Reliability_Engineering_1909.pdf)
 
