@@ -47,6 +47,9 @@ Sameer Khan
 
 ## Meetups:
 
+[Thursday, November 14, 2019](https://www.meetup.com/linuxaustin/events/jbxcnqyzpbsb/) -- Evergreen Software Development  
+slides: [Nathaniel Eliot: ESD](https://github.com/linuxaustin/OtherSlides/blob/master/Evergreen%20Software%20Development.pdf)
+
 [Thursday, October 10, 2019](https://www.meetup.com/linuxaustin/events/jbxcnqyznbnb/) -- Introduction to Flutter  
 slides and code: [Guy Starner: Flutter](https://github.com/ghstarner/json_barchart)
 
