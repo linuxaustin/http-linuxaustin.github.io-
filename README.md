@@ -52,7 +52,7 @@ Sameer Khan
 
 [Thursday, December 12, 2019](https://www.meetup.com/linuxaustin/events/jbxcnqyzqbqb/) -- Lightening Talks  
 Firefox Containers: [Norman Richards](https://support.mozilla.org/en-US/kb/containers)  
-Flutter on the Web and Desktop: [Guy Starner](https://flutter.dev/web)
+Flutter on the Web and Desktop: [Guy Starner](https://github.com/linuxaustin/OtherSlides/blob/master/Flutter%20on%20the%20Web%20and%20Desktop.pdf)
 
 [Thursday, November 14, 2019](https://www.meetup.com/linuxaustin/events/jbxcnqyzpbsb/) -- Evergreen Software Development  
 slides: [Nathaniel Eliot: ESD](https://github.com/linuxaustin/OtherSlides/blob/master/Evergreen%20Software%20Development.pdf)
